@@ -4,7 +4,7 @@ subtitle: Какой-то подзаголовок
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Почему мы?
-  text: Потому что!
+  text: Потому что потому!
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
